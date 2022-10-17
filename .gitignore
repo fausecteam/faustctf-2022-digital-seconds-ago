@@ -1,0 +1,6 @@
+__pycache__/
+
+/dist_root/
+src/helloworld
+*.sqlite3
+src/digital-seconds-ago
